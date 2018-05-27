@@ -10,6 +10,10 @@ public class BodyRotate : MonoBehaviour
     private RaycastHit hit;//射线照射点
     public LayerMask layerName;//射线照射层
     public GameObject body; //在编辑器里把上身拖进去
+    void Start()
+    {
+       print("我是git远程安插进来的卧底")
+    }
     void Update()
     {
         //当技能正在释放时Player不能移动和旋转
