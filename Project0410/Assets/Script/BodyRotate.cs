@@ -12,7 +12,7 @@ public class BodyRotate : MonoBehaviour
     public GameObject body; //在编辑器里把上身拖进去
     void Start()
     {
-       print("我是git远程安插进来的卧底")
+        print("我是git远程安插进来的卧底");
     }
     void Update()
     {
