@@ -13,6 +13,7 @@ public class BodyRotate : MonoBehaviour
     void Start()
     {
         print("我是git远程安插进来的卧底");
+	print("我是卧底2号");
     }
     void Update()
     {
